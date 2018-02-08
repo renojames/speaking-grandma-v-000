@@ -15,5 +15,7 @@
 def speak_to_grandma(say)
   if say != say.upcase
     "HUH?! SPEAK UP, SONNY!"
+  elsif say = "I LOVE YOU GRANDMA!"
+    "I LOVE YOU TOO PUMPKIN!"
   end
 end
