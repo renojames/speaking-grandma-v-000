@@ -14,6 +14,6 @@
 
 def speak_to_grandma
   if "i love you grandma!".uppercase
-    puts"i love you too pumpkin!".upcase
+    puts "i love you too pumpkin!".upcase
   end
 end
